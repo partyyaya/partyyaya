@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Gary
 A frontend developer from Taiwan
 
-<sript>
+<script>
 console.log('teset')
 </script>
 
