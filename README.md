@@ -1,6 +1,10 @@
 ### Hi 👋, I'm Gary
 A frontend developer from Taiwan
 
+<sript>
+console.log('teset')
+</script>
+
 <!--
 **partyyaya/partyyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
