@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Gary
-A frontend developer from Taiwan
+A frontend developer from Taiwan.
 
 <!--
 **partyyaya/partyyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
